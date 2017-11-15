@@ -5,7 +5,7 @@
  * to hold the additional characters, and that you are given the 
  * "true" length of the string. 
  * Example
- * Input : 'Mr. John Smith', 13
+ * Input : 'Mr John Smith', 13
  * Ouput : 'Mr%20John%20Smith'
  */
 
